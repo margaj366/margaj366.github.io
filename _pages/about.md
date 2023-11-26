@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hello there, I'm Martyna!"
+title: "👋 Hello there, I'm Martyna!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
